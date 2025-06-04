@@ -7,9 +7,10 @@
 
 ## Banking Portal UI
 
-- [https://github.com/abhi9720/BankingPortal-UI](https://github.com/Jsaha17/Bank-Portal-API)
+- [https://github.com/Jsaha17/Bank-Portal-API](https://github.com/Jsaha17/Bank-Portal-API)
 
-![image](https://github.com/Jsaha17/Bank-Portal-API/BankingPortal-API/assets/68281476/237694d9-6e8d-48e8-a7a2-982b9f8ca671)
+![image](https://github.com/abhi9720/BankingPortal-API/assets/68281476/237694d9-6e8d-48e8-a7a2-982b9f8ca671)
+
 
 ***
 
